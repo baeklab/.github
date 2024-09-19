@@ -1,4 +1,4 @@
-![Visual Intelligence Laboratory Logo](./img/logo.gif)
+![Visual Intelligence Laboratory Logo](img/logo.gif)
 
 # Welcome to the Visual Intelligence Laboratory
 
